@@ -2,9 +2,7 @@
 
 <h2 align="center">Hello 👋, I'm Vireak</h2> 
 <h3 align="center">I am passionate about learning to become a programmer or developer, especially the latest technologies.</h3>
-
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
 - 🌱 I am a third year bacelor degree student of computer science majoring in software development.
 - 🔭 I'm looking for new experience to contribute knowledge.
 - 📫 How to reach me **dydy11v@gmail.com**

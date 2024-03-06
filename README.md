@@ -1,7 +1,6 @@
 <div align="center">
     <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
     <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
-    <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
 </div>
 
 
@@ -24,10 +23,9 @@
   <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/> </a> </p>
   <p><img src="https://komarev.com/ghpvc/?username=unvireak&style=for-the-badge"/></p>
 <p align="left">
-<p > <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unvireak" width="345"/><p>
-<p  ><img align="left" src="https://github-readme-stats.vercel.app/api?username=unvireak&show_icons=true&locale=en" alt="unvireak" width="400" heighht="300"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unvireak&" alt="unvireak" width="400" heighht="300"/></p>
-
+<p > <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unvireak" width="200" heighht="100"/><p>
+<p  ><img align="left" src="https://github-readme-stats.vercel.app/api?username=unvireak&show_icons=true&locale=en" alt="unvireak" width="300" height="200"/></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unvireak&" alt="unvireak" width="300" height="200"/></p>
 </p>
 
 

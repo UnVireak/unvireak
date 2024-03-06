@@ -1,4 +1,9 @@
-<h1 align="center"><img  src="https://i.imgur.com/4wKci75.gif" height="290"  width="3000"></h1>
+<div align="center">
+    <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
+    <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
+    <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
+</div>
+
 
 <h2 align="center">Hello 👋, I'm Vireak</h2> 
 <h3 align="center">I am passionate about learning to become a programmer or developer, especially the latest technologies.</h3>

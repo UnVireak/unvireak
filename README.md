@@ -26,7 +26,9 @@
   <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="25" height="25"/> </a> </p>
 
 <!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unvireak&show_icons=true&locale=en&layout=compact" alt="unvireak" /><p>-->
+<p><img src="https://komarev.com/ghpvc/?username=unvireak&style=flat-square"/></p>
 <p> <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unvireak" /><p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unvireak&show_icons=true&locale=en" alt="unvireak" /></p>
-<!--<p> <img src="https://github-readme-stats.vercel.app/api?username=unvireak&show_icons=true&theme=dracula" /></p>-->
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unvireak&" alt="unvireak" /></p>
+

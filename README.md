@@ -13,7 +13,7 @@
 - 🔭 I'm looking for new experience to contribute knowledge.
 - 📫 How to reach me **dydy11v@gmail.com**
 
-<! --<h3 align="left">Languages and Tools:</h3>
+<!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a> <img   src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> &nbsp;
   <a > <img  src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="30" height="30"/> </a> &nbsp;
@@ -21,8 +21,8 @@
   <a > <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="express.js" width="30" height="30"/> </a> &nbsp;
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> </a> &nbsp;
   <a > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="30" height="30"/> </a> &nbsp;
-  <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> </p>
-  <p><img src="https://komarev.com/ghpvc/?username=unvireak&style=for-the-badge"/></p> -->
+  <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> </p>-->
+  <p><img src="https://komarev.com/ghpvc/?username=unvireak&style=for-the-badge"/></p> 
 <p align="left">
 <p > <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unvireak" width=300" /><p>
 <p  ><img align="left" src="https://github-readme-stats.vercel.app/api?username=unvireak&show_icons=true&locale=en" alt="unvireak" width="400" height="180"/></p>

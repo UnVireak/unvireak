@@ -10,6 +10,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🌱 I am a third year bacelor degree student of computer science majoring in software development at Norton University.
+- 👨‍💻 I’m currently learning iOS Development at ADITI Academy.
 - 🔭 I'm looking for new experience to contribute knowledge.
 - 📫 How to reach me **dydy11v@gmail.com**
 

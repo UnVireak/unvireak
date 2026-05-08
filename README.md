@@ -23,7 +23,17 @@ Passionate Mobile & Backend Developer focused on building modern, scalable, and 
 - 🚀 Passionate about learning new technologies and continuously improving my skills.
 - 🔭 Interested in building scalable, clean, and high-performance applications.
 - 📫 How to reach me: **un.vireaksdk@gmail.com**
-
+<picture>
+<source 
+  srcset="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://gh-stats.deoxy.dev/api?username=d3oxy&show_icons=true" />
+</picture>
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <a> <img   src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="30" height="30"/> </a> &nbsp;

@@ -1,6 +1,6 @@
 <div align="center">
     <img  src="https://i.imgur.com/4wKci75.gif" height="300"  width="300​​​​​​​​"​>
-    <img  src="https://media1.tenor.com/m/ap6LSaSeQ_kAAAAC/ishowspeed-try-not-to-laugh.gif"   width="300">
+    <img  src="https://media1.tenor.com/m/ap6LSaSeQ_kAAAAC/ishowspeed-try-not-to-laugh.gif"   height="300" width="300">
 </div>
 
 

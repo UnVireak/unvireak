@@ -1,10 +1,10 @@
 <div align="center">
-    <img  src="https://i.imgur.com/4wKci75.gif"   width="300">
+    <img  src="https://i.imgur.com/4wKci75.gif" height="300"  width="300​​​​​​​​"​>
     <img  src="https://media1.tenor.com/m/ap6LSaSeQ_kAAAAC/ishowspeed-try-not-to-laugh.gif"   width="300">
 </div>
 
 
-<h2 align="center">Hello 👋, I'm Virak</h2>
+<h2 align="center">Hello​​​ 👋, I'm Virak</h2>
 
 <h3 align="center">
 Passionate Mobile & Backend Developer focused on building modern, scalable, and user-friendly applications.

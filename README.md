@@ -27,14 +27,6 @@ Passionate Mobile & Backend Developer focused on building modern, scalable, and 
 ![](https://streak-stats.demolab.com/?user=unvireak&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=unvireak&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 [![](https://komarev.com/ghpvc/?username=unvireak&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- <h3 align="left">Languages and Tools:</h3>
 
-  <a> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="30" height="30"/> </a> </p>-->
-  <p><img src="https://komarev.com/ghpvc/?username=unvireak&style=for-the-badge"/></p> 
-<p align="left">
-<p > <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unvireak" width=300" /><p>
-<p  ><img align="left" src="https://github-readme-stats.vercel.app/api?username=unvireak&show_icons=true&locale=en" alt="unvireak" width="400" height="180"/></p>
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=unvireak&" alt="unvireak" width="400" height="180"/></p>
-</p>
 
 

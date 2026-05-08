@@ -8,16 +8,6 @@
 <h3 align="center">
   Passionate Mobile & Backend Developer focused on building modern, scalable, and user-friendly applications.
 </h3>
-
-<div align="center">
-  <a href="https://twitter.com/" target="_blank">
-    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="Twitter" />
-  </a>
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://komarev.com/ghpvc/?username=unvireak&icon=0&color=0&style=for-the-badge" alt="Profile Views" />
-  </a>
-</div>
-
 <br/>
 
 ### 👨‍💻 About Me

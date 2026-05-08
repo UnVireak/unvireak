@@ -21,11 +21,7 @@
 - 📫 **Reach Me:** **un.vireaksdk@gmail.com**
 
 <br/>
-### 🛠️ Languages and Tools
 
-<div align="center">
-  <a href="https://dart.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://flutter.dev" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="Swift" width="40" height="40"/></a>&nbsp;&nbsp;<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a> 
-</div>
 ### 📊 GitHub Stats
 
 <div align="center">

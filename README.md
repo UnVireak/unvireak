@@ -4,15 +4,25 @@
 </div>
 
 
-<h2 align="center">Hello 👋, I'm Virak</h2> 
-<h3 align="center">I am passionate about learning to become a programmer or developer, especially the latest technologies.</h3>
+<h2 align="center">Hello 👋, I'm Virak</h2>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h3 align="center">
+Passionate Mobile & Backend Developer focused on building modern, scalable, and user-friendly applications.
+</h3>
 
-- 🌱 I am a third year bacelor degree student of computer science majoring in software development at Norton University.
-- 👨‍💻 I’m currently learning iOS Development at ADITI Academy.
-- 🔭 I'm looking for new experience to contribute knowledge.
-- 📫 How to reach me **dydy11v@gmail.com**
+<p align="left">
+  <a href="https://twitter.com/" target="blank">
+    <img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />
+  </a>
+</p>
+
+- 🎓 Graduated with a Bachelor's Degree in Computer Science, majoring in Software Development from Norton University.
+- 📱 Completed iOS Development training at ADITI Academy.
+- 💼 Currently working at ACLEDA Bank.
+- 👨‍💻 Experienced in Mobile App Development and Backend Development.
+- 🚀 Passionate about learning new technologies and continuously improving my skills.
+- 🔭 Interested in building scalable, clean, and high-performance applications.
+- 📫 How to reach me: **un.vireaksdk@gmail.com**
 
 <!-- <h3 align="left">Languages and Tools:</h3>
 <p align="left">
